@@ -1,15 +1,4 @@
 package lab_assignment1;
-
-/**
- * File name: Patient.java
- * Author: Hanbin Lee
- * Course: CST8284 - OOP
- * Assignment: Lab Assignment 1
- * Professor: Hesham Saadawi
- * Purpose: This file accepts user input and displays all the data with formatted template.
- * Class list: Patient
- */
-
 import java.util.Scanner;
 
 /**
